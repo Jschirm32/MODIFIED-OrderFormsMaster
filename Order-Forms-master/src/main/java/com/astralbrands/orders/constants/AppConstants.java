@@ -93,4 +93,15 @@ public interface AppConstants {
 	public static final String DESCRIPTION = "Description";
 	public static final String QTY_HUB = "Quantity";
 	public static final String UNIT_COST = "Unit Cost";
+
+
+	//---------------Cosmedix Order Form Column Names-----------------
+
+
+	public static final String SQID = "SQID";
+	public static final String PRODUCTDEC = "PRODUCTDEC";
+	public static final String QTY_COS = "QUANTITY";
+	public static final String PRICE = "PRICE";
+	public static final String Site = "COSMEDIX";
+
 }
